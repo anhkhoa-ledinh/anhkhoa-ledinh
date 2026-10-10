@@ -5,7 +5,7 @@ Software Engineering student at **HUIT** (Ho Chi Minh City University of Industr
 - Researching **real-time 6DoF head pose estimation on CPU** — first-author paper accepted at FAIR 2026
 - Long-term goal: computer vision for immersive VR, the kind of full-dive headset *Sword Art Online* imagined
 - Learning Python, data analysis and quantum machine learning
-- Reach me at **ledinhanhkhoa2k5@gmail.com**
+- Reach me at ledinhanhkhoa2k5 [at] gmail [dot] com
 
 ### Publications
 
