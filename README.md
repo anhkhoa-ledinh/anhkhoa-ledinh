@@ -24,5 +24,16 @@ Software Engineering student at **HUIT** (Ho Chi Minh City University of Industr
 -->
 
 ### GitHub stats
-...
-(phần còn lại giữ nguyên)
+<p>
+  <img src="profile/stats.svg" height="165" alt="GitHub stats" />
+  <img src="profile/top-langs.svg" height="165" alt="Top languages" />
+</p>
+
+### Contributions
+
+<a href="https://anhkhoa-ledinh.github.io/anhkhoa-ledinh/#ignite">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anhkhoa-ledinh/anhkhoa-ledinh/main/profile/contrib-dark.svg" />
+    <img alt="Contribution graph. Click to open the star sea." src="https://raw.githubusercontent.com/anhkhoa-ledinh/anhkhoa-ledinh/main/profile/contrib-light.svg" />
+  </picture>
+</a>
